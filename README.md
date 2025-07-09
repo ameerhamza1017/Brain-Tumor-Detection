@@ -45,5 +45,6 @@ The dataset comprises brain MRI images, each labeled with its corresponding tumo
 <p align="center">
   <b>Ameer Hamza</b><br>
   <a href="https://github.com/ameerhamza1017">GitHub</a> • 
-  <a href="www.linkedin.com/in/ameer-hamza-676a24254">LinkedIn</a>
+  <a href="www.linkedin.com/in/ameer-hamza-676a24254">LinkedIn</a> •
+  <a href="https://www.kaggle.com/ameerhamza17">Kaggle</a>
 </p>
