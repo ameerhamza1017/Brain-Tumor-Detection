@@ -1,29 +1,49 @@
-🧠 Brain Tumor Classification using Deep Learning
-Brain tumor classification is a critical step in diagnosing and treating brain-related diseases. Manual identification and classification of brain tumors from MRI (Magnetic Resonance Imaging) scans is often time-consuming and susceptible to human error.
+<h1 align="center">🧠 Brain Tumor Classification</h1>
 
-This project presents a deep learning approach that accurately classifies brain MRI images into the following categories:
+<p align="center">
+  <b>A Deep Learning Approach for MRI Brain Tumor Detection</b><br>
+  <i>by Ameer Hamza</i>
+</p>
 
-🎯 Glioma Tumor
+<hr>
 
-🎯 Meningioma Tumor
+<p align="justify">
+Brain tumor classification is a <b>critical step</b> in diagnosing and treating brain-related diseases. Manual identification of brain tumors from MRI (Magnetic Resonance Imaging) scans is often <b>time-consuming</b> and <b>susceptible to human error</b>.
+</p>
 
-🎯 Pituitary Tumor
+<p align="justify">
+This project introduces a <b>deep learning model</b> that accurately classifies brain MRI images into the following categories:
+</p>
 
-🎯 No Tumor
+<ul>
+  <li>🎯 <b>Glioma Tumor</b></li>
+  <li>🎯 <b>Meningioma Tumor</b></li>
+  <li>🎯 <b>Pituitary Tumor</b></li>
+  <li>🎯 <b>No Tumor</b></li>
+</ul>
 
-The model utilizes Convolutional Neural Networks (CNNs) — a state-of-the-art deep learning architecture well-suited for image classification tasks.
+<p align="justify">
+The model leverages <b>Convolutional Neural Networks (CNNs)</b> — a state-of-the-art deep learning architecture designed for image classification tasks.
+</p>
 
-📂 Dataset
+<h2>📂 Dataset</h2>
+<p align="justify">
 The dataset comprises brain MRI images, each labeled with its corresponding tumor type. It serves as the foundation for training, validating, and testing the model.
+</p>
 
-🚀 Project Workflow
-Data Preprocessing – Clean and prepare MRI images for model input.
+<h2>🚀 Project Workflow</h2>
+<ol>
+  <li><b>Data Preprocessing</b> – Clean and prepare MRI images for model input.</li>
+  <li><b>Model Building</b> – Design and implement a CNN architecture.</li>
+  <li><b>Model Training</b> – Train the CNN on the labeled dataset.</li>
+  <li><b>Evaluation</b> – Assess model performance on a separate test set.</li>
+</ol>
 
-Model Building – Design and implement a CNN architecture for classification.
+<hr>
 
-Model Training – Train the CNN on the labeled dataset.
-
-Evaluation – Assess model performance on a separate test set.
-
-👨‍💻 Author
-Ameer Hamza
+<h3 align="center">👨‍💻 Author</h3>
+<p align="center">
+  <b>Ameer Hamza</b><br>
+  <a href="https://github.com/your-github-username">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a>
+</p>
